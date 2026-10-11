@@ -6,7 +6,7 @@ function Footer() {
       <p>
         This Weather App was coded by{" Re "}
         <a
-          href="https://github.com/warerianne-bit/MyWeatherApp"
+          href="https://github.com/warerianne-bit/myweatherappre"
           target="_blank"
           rel="noopener noreferrer"
         >
